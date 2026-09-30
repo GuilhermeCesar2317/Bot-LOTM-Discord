@@ -1,0 +1,1171 @@
+{
+    "louco": {
+        "nome": "Caminho do Louco",
+        "descricao": "Caminho do Louco.",
+        "sequencias": {
+            "9": {"nome": "Vidente"},
+            "8": {"nome": "Palhaço"},
+            "7": {"nome": "Mágico"},
+            "6": {"nome": "Sem Rosto"},
+            "5": {"nome": "Marionetista"},
+            "4": {"nome": "Feiticeiro Bizarro"},
+            "3": {"nome": "Erudito do Passado"},
+            "2": {"nome": "Invocador de Milagres"},
+            "1": {"nome": "Atendente dos Mistérios"},
+            "0": {"nome": "O Louco"}
+        }
+    },
+
+    "porta": {
+        "nome": "Caminho da Porta",
+        "descricao": "Caminho da Porta.",
+        "sequencias": {
+            "9": {"nome": "Aprendiz"},
+            "8": {"nome": "Trapaceiro"},
+            "7": {"nome": "Astrólogo"},
+            "6": {"nome": "Escriba"},
+            "5": {"nome": "Viajante"},
+            "4": {"nome": "Feiticeiro dos Segredos"},
+            "3": {"nome": "Andarilho"},
+            "2": {"nome": "Caminhante dos Planos"},
+            "1": {"nome": "Chave das Estrelas"},
+            "0": {"nome": "A Porta"}
+        }
+    },
+
+    "erro": {
+        "nome": "Caminho do Erro",
+        "descricao": "Caminho do Erro.",
+        "sequencias": {
+            "9": {"nome": "Saqueador"},
+            "8": {"nome": "Vigarista"},
+            "7": {"nome": "Criptologista"},
+            "6": {"nome": "Prometeu"},
+            "5": {"nome": "Ladrão de Sonhos"},
+            "4": {"nome": "Parasita"},
+            "3": {"nome": "Mentor da Enganação"},
+            "2": {"nome": "Cavalo de Troia do Destino"},
+            "1": {"nome": "Verme do Tempo"},
+            "0": {"nome": "O Erro"}
+        }
+    },
+
+    "visionario": {
+        "nome": "Caminho do Visionário",
+        "descricao": "Caminho do Visionário.",
+        "sequencias": {
+            "9": {"nome": "Espectador"},
+            "8": {"nome": "Telepata"},
+            "7": {"nome": "Psiquiatra"},
+            "6": {"nome": "Hipnotizador"},
+            "5": {"nome": "Andarilho dos Sonhos"},
+            "4": {"nome": "Manipulador"},
+            "3": {"nome": "Discernidor"},
+            "2": {"nome": "Autor"},
+            "1": {"nome": "Imperador do Conhecimento"},
+            "0": {"nome": "Visionário"}
+        }
+    },
+
+    "sol": {
+        "nome": "Caminho do Sol",
+        "descricao": "Caminho do Sol.",
+        "sequencias": {
+            "9": {"nome": "Bardo"},
+            "8": {"nome": "Suplicante da Luz"},
+            "7": {"nome": "Sumo Sacerdote Solar"},
+            "6": {"nome": "Notário"},
+            "5": {"nome": "Sacerdote da Luz"},
+            "4": {"nome": "Sem Sombra"},
+            "3": {"nome": "Mentor da Justiça"},
+            "2": {"nome": "Buscador da Luz"},
+            "1": {"nome": "Anjo Branco"},
+            "0": {"nome": "Sol"}
+        }
+    },
+
+    "tirano": {
+        "nome": "Caminho do Tirano",
+        "descricao": "Caminho do Tirano.",
+        "sequencias": {
+            "9": {"nome": "Marinheiro"},
+            "8": {"nome": "Filho da Fúria"},
+            "7": {"nome": "Navegador"},
+            "6": {"nome": "Abençoado pelos Ventos"},
+            "5": {"nome": "Cantor dos Oceanos"},
+            "4": {"nome": "Intercessor Cataclísmico"},
+            "3": {"nome": "Rei dos Mares"},
+            "2": {"nome": "Calamidade"},
+            "1": {"nome": "Deus do Trovão"},
+            "0": {"nome": "Tirano"}
+        }
+    },
+
+    "torre_branca": {
+        "nome": "Caminho da Torre Branca",
+        "descricao": "Caminho da Torre Branca.",
+        "sequencias": {
+            "9": {"nome": "Leitor"},
+            "8": {"nome": "Estudante da Razão"},
+            "7": {"nome": "Detetive"},
+            "6": {"nome": "Polímata"},
+            "5": {"nome": "Misticólogo"},
+            "4": {"nome": "Profeta"},
+            "3": {"nome": "Cognizador"},
+            "2": {"nome": "Anjo da Sabedoria"},
+            "1": {"nome": "Olho Onisciente"},
+            "0": {"nome": "Torre Branca"}
+        }
+    },
+
+    "enforcado": {
+        "nome": "Caminho do Enforcado",
+        "descricao": "Caminho do Enforcado.",
+        "sequencias": {
+            "9": {"nome": "Suplicante dos Segredos"},
+            "8": {"nome": "Ouvinte"},
+            "7": {"nome": "Asceta das Sombras"},
+            "6": {"nome": "Bispo da Rosa"},
+            "5": {"nome": "Pastor"},
+            "4": {"nome": "Cavaleiro Negro"},
+            "3": {"nome": "Templário da Trindade"},
+            "2": {"nome": "Presbítero Profano"},
+            "1": {"nome": "Anjo Sombrio"},
+            "0": {"nome": "O Enforcado"}
+        }
+    },
+
+    "sacerdote_vermelho": {
+        "nome": "Caminho do Sacerdote Vermelho",
+        "descricao": "Caminho do Sacerdote Vermelho.",
+        "sequencias": {
+            "9": {"nome": "Caçador"},
+            "8": {"nome": "Provocador"},
+            "7": {"nome": "Piromaníaco"},
+            "6": {"nome": "Conspirador"},
+            "5": {"nome": "Ceifador"},
+            "4": {"nome": "Cavaleiro de Sangue de Ferro"},
+            "3": {"nome": "Bispo da Guerra"},
+            "2": {"nome": "Bruxo do Clima"},
+            "1": {"nome": "Conquistador"},
+            "0": {"nome": "Sacerdote Vermelho"}
+        }
+    },
+
+    "demonia": {
+        "nome": "Caminho da Demônia",
+        "descricao": "Caminho da Demônia.",
+        "sequencias": {
+            "9": {"nome": "Assassino"},
+            "8": {"nome": "Instigador"},
+            "7": {"nome": "Bruxa"},
+            "6": {"nome": "Prazer"},
+            "5": {"nome": "Aflição"},
+            "4": {"nome": "Desespero"},
+            "3": {"nome": "Sem Idade"},
+            "2": {"nome": "Catástrofe"},
+            "1": {"nome": "Apocalipse"},
+            "0": {"nome": "Demônia"}
+        }
+    },
+
+    "paria": {
+        "nome": "Caminho do Pária",
+        "descricao": "Caminho do Pária.",
+        "sequencias": {
+            "9": {"nome": "Erudito"},
+            "8": {"nome": "Arqueólogo"},
+            "7": {"nome": "Avaliador"},
+            "6": {"nome": "Artesão"},
+            "5": {"nome": "Astrônomo"},
+            "4": {"nome": "Alquimista"},
+            "3": {"nome": "Erudito Arcano"},
+            "2": {"nome": "Iluminador"},
+            "1": {"nome": "Guardião do Conhecimento"},
+            "0": {"nome": "Pária"}
+        }
+    },
+
+    "eremita": {
+        "nome": "Caminho do Eremita",
+        "descricao": "Caminho do Eremita.",
+        "sequencias": {
+            "9": {"nome": "Investigador dos Mistérios"},
+            "8": {"nome": "Estudioso do Ocultismo"},
+            "7": {"nome": "Bruxo"},
+            "6": {"nome": "Professor dos Pergaminhos"},
+            "5": {"nome": "Mestre das Constelações"},
+            "4": {"nome": "Misticólogo"},
+            "3": {"nome": "Clarividente"},
+            "2": {"nome": "Sábio"},
+            "1": {"nome": "Sábio Oculto"},
+            "0": {"nome": "Eremita"}
+        }
+    },
+
+    "mae": {
+        "nome": "Caminho da Mãe",
+        "descricao": "Caminho da Mãe.",
+        "sequencias": {
+            "9": {"nome": "Boticário"},
+            "8": {"nome": "Médico"},
+            "7": {"nome": "Biólogo"},
+            "6": {"nome": "Sacerdote da Colheita"},
+            "5": {"nome": "Druida"},
+            "4": {"nome": "Flagelo Ancestral"},
+            "3": {"nome": "Doador da Vida"},
+            "2": {"nome": "Andarilho da Natureza"},
+            "1": {"nome": "Deusa da Beleza"},
+            "0": {"nome": "Mãe"}
+        }
+    },
+
+    "lua": {
+        "nome": "Caminho da Lua",
+        "descricao": "Caminho da Lua.",
+        "sequencias": {
+            "9": {"nome": "Boticário"},
+            "8": {"nome": "Domador de Feras"},
+            "7": {"nome": "Vampiro"},
+            "6": {"nome": "Professor de Poções"},
+            "5": {"nome": "Erudito Escarlate"},
+            "4": {"nome": "Rei Xamã"},
+            "3": {"nome": "Grande Invocador"},
+            "2": {"nome": "Sacerdote da Lua"},
+            "1": {"nome": "Deusa da Beleza"},
+            "0": {"nome": "Lua"}
+        }
+    },
+
+    "acorrentado": {
+        "nome": "Caminho do Acorrentado",
+        "descricao": "Caminho do Acorrentado.",
+        "sequencias": {
+            "9": {"nome": "Prisioneiro"},
+            "8": {"nome": "Lunático"},
+            "7": {"nome": "Lobisomem"},
+            "6": {"nome": "Zumbi"},
+            "5": {"nome": "Espectro"},
+            "4": {"nome": "Boneco"},
+            "3": {"nome": "Abominação"},
+            "2": {"nome": "Mal Ancestral"},
+            "1": {"nome": "Rei Amaldiçoado"},
+            "0": {"nome": "Acorrentado"}
+        }
+    },
+
+    "abismo": {
+        "nome": "Caminho do Abismo",
+        "descricao": "Caminho do Abismo.",
+        "sequencias": {
+            "9": {"nome": "Criminoso"},
+            "8": {"nome": "Bárbaro"},
+            "7": {"nome": "Subornador"},
+            "6": {"nome": "Diabo"},
+            "5": {"nome": "Apóstolo do Desejo"},
+            "4": {"nome": "Demônio"},
+            "3": {"nome": "Andarilho do Caos"},
+            "2": {"nome": "Monarca Diabólico"},
+            "1": {"nome": "Monarca da Imundície"},
+            "0": {"nome": "Abismo"}
+        }
+    },
+
+    "imperador_negro": {
+        "nome": "Caminho do Imperador Negro",
+        "descricao": "Caminho do Imperador Negro.",
+        "sequencias": {
+            "9": {"nome": "Advogado"},
+            "8": {"nome": "Bárbaro"},
+            "7": {"nome": "Subornador"},
+            "6": {"nome": "Barão da Corrupção"},
+            "5": {"nome": "Mentor da Desordem"},
+            "4": {"nome": "Conde da Queda"},
+            "3": {"nome": "Duque da Entropia"},
+            "2": {"nome": "Príncipe da Abolição"},
+            "1": {"nome": "Mão da Ordem"},
+            "0": {"nome": "Imperador Negro"}
+        }
+    },
+
+    "justiciar": {
+        "nome": "Caminho do Justiciar",
+        "descricao": "Caminho do Justiciar.",
+        "sequencias": {
+            "9": {"nome": "Árbitro"},
+            "8": {"nome": "Xerife"},
+            "7": {"nome": "Interrogador"},
+            "6": {"nome": "Juiz"},
+            "5": {"nome": "Disciplinador"},
+            "4": {"nome": "Mago Imperativo"},
+            "3": {"nome": "Caçador do Caos"},
+            "2": {"nome": "Balanceador"},
+            "1": {"nome": "Mão da Ordem"},
+            "0": {"nome": "Justiciar"}
+        }
+    },
+
+    "roda_da_fortuna": {
+        "nome": "Caminho da Roda da Fortuna",
+        "descricao": "Caminho da Roda da Fortuna.",
+        "sequencias": {
+            "9": {"nome": "Monstro"},
+            "8": {"nome": "Robô"},
+            "7": {"nome": "Afortunado"},
+            "6": {"nome": "Sacerdote da Calamidade"},
+            "5": {"nome": "Vencedor"},
+            "4": {"nome": "Mago da Má Sorte"},
+            "3": {"nome": "Andarilho do Caos"},
+            "2": {"nome": "Serpente de Mercúrio"},
+            "1": {"nome": "Serpente do Destino"},
+            "0": {"nome": "Roda da Fortuna"}
+        }
+    },
+
+    "escuridao": {
+        "nome": "Caminho da Escuridão",
+        "descricao": "Caminho da Escuridão.",
+        "sequencias": {
+            "9": {"nome": "Insone"},
+            "8": {"nome": "Poeta da Meia-Noite"},
+            "7": {"nome": "Pesadelo"},
+            "6": {"nome": "Guardião das Almas"},
+            "5": {"nome": "Bruxo Espiritual"},
+            "4": {"nome": "Vigilante da Noite"},
+            "3": {"nome": "Bispo do Horror"},
+            "2": {"nome": "Servo da Ocultação"},
+            "1": {"nome": "Cavaleiro do Infortúnio"},
+            "0": {"nome": "Escuridão"}
+        }
+    },
+
+    "morte": {
+        "nome": "Caminho da Morte",
+        "descricao": "Caminho da Morte.",
+        "sequencias": {
+            "9": {
+    "nome": "Coletor de Cadáveres",
+
+    "descricao": "Beyonder especializado em cadáveres, mortos-vivos e fenômenos espirituais. A poção concede uma afinidade inicial com a morte e permite perceber aspectos do mundo espiritual.",
+
+    "habilidades": [
+        {
+            "nome": "Visão Espiritual",
+            "tipo": "ativa",
+            "descricao": "Permite perceber entidades e fenômenos que normalmente não podem ser vistos pelos sentidos físicos, incluindo espíritos, partes da alma e certas auras sobrenaturais."
+        },
+        {
+            "nome": "Conhecimento de Mortos-Vivos",
+            "tipo": "passiva",
+            "descricao": "Concede conhecimento especializado sobre características, comportamentos e fraquezas de diversos mortos-vivos e cadáveres."
+        }
+    ],
+
+    "caracteristicas": [
+        "Atributos físicos aprimorados",
+        "Presença sombria",
+        "Temperatura corporal reduzida",
+        "Resistência ao frio",
+        "Resistência à decomposição e auras cadavéricas",
+        "Afinidade com mortos-vivos e espíritos"
+    ],
+
+    "autoridades": [],
+
+    "dominios": [],
+
+    "atuacao": {
+        "descricao": "Aprender a lidar com cadáveres, mortos-vivos e fenômenos relacionados à morte, desenvolvendo familiaridade com aquilo que normalmente causa medo ou repulsa aos vivos.",
+        "objetivos": []
+    },
+
+    "formula": {
+        "ingredientes": [
+            {
+                "nome": "Sapo adulto de manchas negras dessecado",
+                "tipo": "principal",
+                "quantidade": 1
+            },
+            {
+                "nome": "Cristal de uma pessoa envolta em mortalha",
+                "tipo": "principal",
+                "quantidade": 1
+            },
+            {
+                "nome": "Álcool repetidamente destilado",
+                "tipo": "suplementar",
+                "quantidade": "80 ml"
+            },
+            {
+                "nome": "Muco de sapo de manchas negras",
+                "tipo": "suplementar",
+                "quantidade": "10 gotas"
+            },
+            {
+                "nome": "Hidrolato de lírio-negro",
+                "tipo": "suplementar",
+                "quantidade": "10 gotas"
+            },
+            {
+                "nome": "Mortalha funerária usada",
+                "tipo": "suplementar",
+                "quantidade": 1
+            }
+        ]
+    },
+
+    "requisitos": {
+        "sequencia_anterior": null
+    }
+},
+            "8": {
+    "nome": "Coveiro",
+
+    "descricao": "Um Beyonder que aprofundou sua afinidade com a morte e passou a interagir diretamente com espíritos. Sua percepção espiritual e sua capacidade de identificar as fraquezas de seres sobrenaturais tornam-no especialmente eficaz contra mortos-vivos.",
+
+    "habilidades": [
+        {
+            "nome": "Visão Espiritual Aprimorada",
+            "tipo": "passiva",
+            "descricao": "A percepção espiritual adquirida na Sequência anterior é ampliada, permitindo observar com maior clareza espíritos, entidades e fenômenos relacionados ao mundo espiritual."
+        },
+        {
+            "nome": "Comunicação Espiritual",
+            "tipo": "ativa",
+            "descricao": "Permite estabelecer comunicação com espíritos próximos e solicitar sua cooperação ou informações."
+        },
+        {
+            "nome": "Olho da Morte",
+            "tipo": "ativa",
+            "descricao": "Permite analisar criaturas mortas-vivas e entidades espirituais para identificar rapidamente suas fraquezas."
+        }
+    ],
+
+    "caracteristicas": [
+        "Aprimoramento físico superior ao da Sequência anterior",
+        "Agilidade aprimorada",
+        "Percepção espiritual ampliada",
+        "Maior afinidade com espíritos",
+        "Maior capacidade de identificar fraquezas sobrenaturais"
+    ],
+
+    "autoridades": [],
+
+    "dominios": [],
+
+    "atuacao": {
+        "descricao": "Aprofundar a compreensão da morte e aprender a interagir com espíritos, cadáveres e criaturas sobrenaturais sem se deixar dominar pelo medo ou pela influência desses seres.",
+        "objetivos": []
+    },
+
+    "formula": {
+        "ingredientes": []
+    },
+
+    "requisitos": {
+        "sequencia_anterior": 9
+    }
+},
+            "7": {
+    "nome": "Médium Espiritual",
+
+    "descricao": "Um Beyonder cuja espiritualidade foi profundamente fortalecida, permitindo perceber, comunicar-se e canalizar espíritos. A partir desta Sequência, o Beyonder passa a utilizar espíritos como fonte versátil de fenômenos sobrenaturais.",
+
+    "habilidades": [
+        {
+            "nome": "Percepção Espiritual Superior",
+            "tipo": "passiva",
+            "descricao": "A percepção espiritual torna-se extremamente aguçada, permitindo detectar espíritos ocultos mesmo sem utilizar os olhos."
+        },
+        {
+            "nome": "Visão Espiritual Aprimorada",
+            "tipo": "passiva",
+            "descricao": "A Visão Espiritual é significativamente fortalecida, permitindo perceber com maior clareza entidades e fenômenos espirituais."
+        },
+        {
+            "nome": "Afinidade Espiritual",
+            "tipo": "passiva",
+            "descricao": "Espíritos naturais e almas dos mortos tendem a perceber o Médium Espiritual como uma entidade semelhante a eles e, quando tratados de maneira amigável, podem até fornecer informações espontaneamente."
+        },
+        {
+            "nome": "Canalização Espiritual",
+            "tipo": "ativa",
+            "descricao": "Permite comunicar-se diretamente com espíritos naturais e almas dos mortos, canalizando seus poderes para produzir diferentes fenômenos sobrenaturais."
+        },
+        {
+            "nome": "Canalização de Almas",
+            "tipo": "ativa",
+            "descricao": "Permite estabelecer contato com espíritos de pessoas recentemente falecidas, possibilitando obter informações que elas possuíam em vida."
+        },
+        {
+            "nome": "Disfarce de Zumbi",
+            "tipo": "ativa",
+            "descricao": "Permite assumir características semelhantes às de um zumbi, aumentando a resistência contra a erosão causada por frio, decomposição, morte e outras auras relacionadas."
+        }
+    ],
+
+    "caracteristicas": [
+        "Grande aumento de espiritualidade",
+        "Percepção espiritual extremamente aguçada",
+        "Visão Espiritual aprimorada",
+        "Forte afinidade com espíritos naturais",
+        "Forte afinidade com almas dos mortos",
+        "Maior resistência a auras de morte e decomposição"
+    ],
+
+    "autoridades": [],
+
+    "dominios": [],
+
+    "atuacao": {
+        "descricao": "Desenvolver uma relação profunda com espíritos e mortos, aprendendo a compreendê-los, comunicar-se com eles e utilizar sua natureza sobrenatural sem perder o controle sobre si mesmo.",
+        "objetivos": []
+    },
+
+    "formula": {
+        "ingredientes": [
+            {
+                "nome": "Pata dianteira de Gato Fantasma",
+                "tipo": "principal",
+                "quantidade": 1
+            },
+            {
+                "nome": "Cristal do Mundo Espiritual",
+                "tipo": "principal",
+                "quantidade": 1
+            },
+            {
+                "nome": "Sangue de Gato Fantasma",
+                "tipo": "suplementar",
+                "quantidade": "80 ml"
+            },
+            {
+                "nome": "Solo contaminado pelo Mundo Espiritual",
+                "tipo": "suplementar",
+                "quantidade": "10 g"
+            },
+            {
+                "nome": "Massa encefálica de uma vítima de possessão por espírito maligno",
+                "tipo": "suplementar",
+                "quantidade": "5 ml"
+            },
+            {
+                "nome": "Folha abençoada por um espírito natural",
+                "tipo": "suplementar",
+                "quantidade": 1
+            }
+        ]
+    },
+
+    "requisitos": {
+        "sequencia_anterior": 8
+    }
+},
+            "6": {
+    "nome": "Guia Espiritual",
+
+    "descricao": "Um Beyonder que aprofundou seu domínio sobre espíritos e mortos-vivos, tornando-se capaz de comandar criaturas mortas e interferir diretamente no corpo espiritual de seus alvos.",
+
+    "habilidades": [
+        {
+            "nome": "Linguagem dos Mortos",
+            "tipo": "ativa",
+            "descricao": "Permite utilizar uma linguagem mística para afetar diretamente o Corpo Espiritual de um alvo, podendo forçá-lo a abandonar o corpo físico."
+        },
+        {
+            "nome": "Comando de Mortos-Vivos",
+            "tipo": "ativa",
+            "descricao": "Permite controlar grupos de mortos-vivos sem um mestre, desde que estejam dentro de uma faixa de poder compatível."
+        },
+        {
+            "nome": "Domínio Espiritual Aprimorado",
+            "tipo": "passiva",
+            "descricao": "A capacidade de controlar e comandar espíritos, mortos-vivos e criaturas do Mundo Espiritual é significativamente ampliada."
+        }
+    ],
+
+    "caracteristicas": [
+        "Grande aumento da espiritualidade",
+        "Maior domínio sobre mortos-vivos",
+        "Maior resistência a influências espirituais",
+        "Capacidade de interferir diretamente no Corpo Espiritual",
+        "Maior autoridade sobre espíritos e criaturas mortas"
+    ],
+
+    "autoridades": [],
+
+    "dominios": [],
+
+    "atuacao": {
+        "descricao": "Aprender a compreender e comandar os mortos, desenvolvendo autoridade sobre espíritos e criaturas mortas-vivas sem ser dominado por elas.",
+        "objetivos": []
+    },
+
+    "formula": {
+        "ingredientes": [
+            {
+                "nome": "Sombra da Morte",
+                "tipo": "principal",
+                "quantidade": 1
+            },
+            {
+                "nome": "Alma de um Lich Pálido",
+                "tipo": "principal",
+                "quantidade": 1
+            },
+            {
+                "nome": "Fluido de decomposição de mortos",
+                "tipo": "suplementar",
+                "quantidade": "100 ml"
+            },
+            {
+                "nome": "Ossos fragmentados de um Lich Pálido",
+                "tipo": "suplementar",
+                "quantidade": 1
+            },
+            {
+                "nome": "Objeto habitado pela Sombra da Morte",
+                "tipo": "suplementar",
+                "quantidade": 1
+            },
+            {
+                "nome": "Espectro persistente",
+                "tipo": "suplementar",
+                "quantidade": 1
+            }
+        ]
+    },
+
+    "requisitos": {
+        "sequencia_anterior": 7
+    }
+},
+            "5": {
+    "nome": "Guardião dos Portões",
+
+    "descricao": "Um Beyonder ligado aos limites entre o mundo dos vivos e o Submundo, capaz de perceber e utilizar a Porta do Submundo para controlar mortos-vivos e arrastar alvos para além do mundo dos vivos.",
+
+    "habilidades": [
+        {
+            "nome": "Porta do Submundo",
+            "tipo": "ativa",
+            "descricao": "Permite perceber, invocar e utilizar uma manifestação da Porta do Submundo."
+        },
+        {
+            "nome": "Invocação da Porta",
+            "tipo": "ativa",
+            "descricao": "A Porta do Submundo pode ser manifestada em momentos críticos, podendo prender e arrastar alvos para o Submundo."
+        },
+        {
+            "nome": "Controle de Mortos-Vivos",
+            "tipo": "ativa",
+            "descricao": "Permite exercer autoridade sobre mortos-vivos associados ao Submundo."
+        }
+    ],
+
+    "caracteristicas": [
+        "Grande aumento da espiritualidade",
+        "Maior autoridade sobre mortos-vivos",
+        "Afinidade com o Submundo",
+        "Capacidade de perceber a Porta do Submundo",
+        "Maior resistência a forças relacionadas à morte"
+    ],
+
+    "autoridades": [],
+
+    "dominios": [],
+
+    "atuacao": {
+        "descricao": "Aprofundar a relação com o Submundo e assumir o papel de guardião entre o domínio dos vivos e o domínio dos mortos.",
+        "objetivos": []
+    },
+
+    "formula": {
+        "ingredientes": [
+            {
+                "nome": "Crânio de um Andarilho do Submundo",
+                "tipo": "principal",
+                "quantidade": 1
+            },
+            {
+                "nome": "Núcleo cristalino deixado por um Espectro de Mil Braços",
+                "tipo": "principal",
+                "quantidade": 1
+            },
+            {
+                "nome": "Água contaminada pela aura da morte",
+                "tipo": "suplementar",
+                "quantidade": "100 ml"
+            },
+            {
+                "nome": "Carne apodrecida de um Andarilho do Submundo",
+                "tipo": "suplementar",
+                "quantidade": 1
+            },
+            {
+                "nome": "Pó residual de um Espectro de Mil Braços",
+                "tipo": "suplementar",
+                "quantidade": "10 g"
+            },
+            {
+                "nome": "Óleo essencial de lírio-aranha vermelho profundo",
+                "tipo": "suplementar",
+                "quantidade": "10 gotas"
+            }
+        ]
+    },
+
+    "requisitos": {
+        "sequencia_anterior": 6
+    }
+},
+            "4": {
+    "nome": "Imortal",
+
+    "descricao": "Um semideus cuja existência se aproxima da própria morte. Seu corpo transcende parcialmente os limites entre matéria e espírito, permitindo-lhe sobreviver a ferimentos que seriam fatais para seres comuns.",
+
+    "habilidades": [
+        {
+            "nome": "Corpo Imorredouro",
+            "tipo": "passiva",
+            "descricao": "O corpo deixa de ser facilmente destruído por ataques físicos comuns. Para causar uma morte verdadeira, é necessário destruir completamente o corpo."
+        },
+        {
+            "nome": "Estado Espiritual",
+            "tipo": "passiva",
+            "descricao": "Permite existir em uma condição intermediária entre um corpo físico e um Corpo Espiritual."
+        },
+        {
+            "nome": "Reencarnação",
+            "tipo": "passiva",
+            "descricao": "O Imorredouro possui uma longa existência, mas após determinado período sua vida chega ao fim e ele renasce, iniciando uma nova existência."
+        }
+    ],
+
+    "caracteristicas": [
+        "Natureza semidivina",
+        "Grande resistência física",
+        "Existência parcialmente espiritual",
+        "Capacidade de renascimento",
+        "Maior resistência à morte"
+    ],
+
+    "autoridades": [],
+
+    "dominios": [],
+
+    "atuacao": {
+        "descricao": "Aceitar a morte como parte da própria existência e compreender a fronteira entre vida, morte e renascimento.",
+        "objetivos": []
+    },
+
+    "formula": {
+        "ingredientes": [
+            {
+                "nome": "Vesícula biliar de uma Serpente Alada em Decomposição",
+                "tipo": "principal",
+                "quantidade": 1
+            },
+            {
+                "nome": "Exúvia de uma Cigarra Imortal",
+                "tipo": "principal",
+                "quantidade": 1
+            },
+            {
+                "nome": "Fluido corporal da Serpente Alada em Decomposição",
+                "tipo": "suplementar",
+                "quantidade": "90 ml"
+            },
+            {
+                "nome": "Casca da árvore onde a Cigarra Imortal viveu",
+                "tipo": "suplementar",
+                "quantidade": 9
+            },
+            {
+                "nome": "Pedra da Escuridão Eterna",
+                "tipo": "suplementar",
+                "quantidade": 1
+            },
+            {
+                "nome": "Lírio-aranha vermelho-pálido",
+                "tipo": "suplementar",
+                "quantidade": 1
+            }
+        ]
+    },
+
+    "requisitos": {
+        "sequencia_anterior": 5
+    }
+},
+            "3": {
+    "nome": "Barqueiro",
+
+    "descricao": "Um poderoso semideus que atravessa a fronteira entre a vida e a morte. O Barqueiro começa a exercer autoridade parcial sobre a morte e torna-se intimamente ligado ao Submundo.",
+
+    "habilidades": [
+        {
+            "nome": "Autoridade da Morte",
+            "tipo": "autoridade",
+            "descricao": "Permite exercer uma autoridade parcial sobre a morte e seus fenômenos."
+        },
+        {
+            "nome": "Olhar da Morte",
+            "tipo": "ativa",
+            "descricao": "O olhar do Barqueiro pode provocar a morte de seres vivos diretamente. Mesmo seres de nível divino podem sofrer danos extremamente graves."
+        },
+        {
+            "nome": "Definhamento",
+            "tipo": "ativa",
+            "descricao": "Mesmo sem contato visual direto, a influência do olhar pode fazer um alvo definhar gradualmente sob a força da morte."
+        },
+        {
+            "nome": "Mão da Morte",
+            "tipo": "ativa",
+            "descricao": "O toque de uma das mãos aproxima um ser da morte, enquanto a outra pode reverter parcialmente o processo e restaurar a vida."
+        },
+        {
+            "nome": "Travessia do Submundo",
+            "tipo": "passiva",
+            "descricao": "O Barqueiro torna-se parte do Submundo e pode atravessar regiões ligadas ao domínio dos mortos."
+        },
+        {
+            "nome": "Flutuação no Rio Estige",
+            "tipo": "passiva",
+            "descricao": "Permite permanecer sobre as águas do Rio Estige e atravessar temporariamente regiões relacionadas ao domínio da morte."
+        }
+    ],
+
+    "caracteristicas": [
+        "Autoridade parcial sobre a morte",
+        "Existência extremamente resistente",
+        "Ligação profunda com o Submundo",
+        "Capacidade de atravessar a fronteira entre vida e morte",
+        "Natureza semidivina avançada"
+    ],
+
+    "autoridades": [],
+
+    "dominios": [],
+
+    "atuacao": {
+        "descricao": "Tornar-se um verdadeiro intermediário entre a vida e a morte, conduzindo os mortos e compreendendo a autoridade que governa o fim da existência.",
+        "objetivos": []
+    },
+
+    "formula": {
+        "ingredientes": [
+            {
+                "nome": "Núcleo de pus de um Servo do Estige",
+                "tipo": "principal",
+                "quantidade": 1
+            },
+            {
+                "nome": "Cérebro de uma Serpente Alada adulta",
+                "tipo": "alternativo",
+                "quantidade": 1
+            },
+            {
+                "nome": "Sangue do próprio candidato",
+                "tipo": "suplementar",
+                "quantidade": "90 ml"
+            },
+            {
+                "nome": "Pus de um Servo do Estige",
+                "tipo": "suplementar",
+                "quantidade": "9 gotas"
+            },
+            {
+                "nome": "Ser morto-vivo das profundezas do Submundo",
+                "tipo": "suplementar",
+                "quantidade": 1
+            },
+            {
+                "nome": "Flor nascida da própria carne em decomposição",
+                "tipo": "suplementar",
+                "quantidade": 1
+            }
+        ]
+    },
+
+    "requisitos": {
+        "sequencia_anterior": 4
+    }
+},
+            "2": {
+    "nome": "Cônsul da Morte",
+    "descricao": "Um poderoso semideus que alcançou um nível extremamente elevado de autoridade sobre a morte. O Cônsul da Morte possui uma existência intimamente ligada ao Submundo e pode manifestar um domínio aterrador sobre mortos, almas e criaturas relacionadas à morte.",
+    "habilidades": [
+        {
+            "nome": "Autoridade da Morte",
+            "tipo": "autoridade",
+            "descricao": "Permite exercer uma autoridade extremamente poderosa sobre a morte, afetando seres vivos, mortos-vivos, espíritos e fenômenos relacionados ao fim da vida."
+        },
+        {
+            "nome": "Domínio dos Mortos",
+            "tipo": "autoridade",
+            "descricao": "Permite comandar e subjugar grandes quantidades de mortos-vivos e espíritos, impondo sua vontade sobre criaturas ligadas ao domínio da morte."
+        },
+        {
+            "nome": "Reino dos Mortos",
+            "tipo": "ativa",
+            "descricao": "Permite manifestar uma área profundamente influenciada pela autoridade da morte, enfraquecendo seres vivos e fortalecendo criaturas associadas ao domínio dos mortos."
+        },
+        {
+            "nome": "Condução das Almas",
+            "tipo": "ativa",
+            "descricao": "Permite perceber, conduzir e manipular almas dentro de sua esfera de autoridade, podendo impedir ou dificultar sua fuga após a morte."
+        },
+        {
+            "nome": "Ressurreição",
+            "tipo": "ativa",
+            "descricao": "Permite restaurar a vida de um indivíduo dentro de determinadas condições, utilizando a autoridade sobre a morte para reconstruir sua existência."
+        },
+        {
+            "nome": "Exército dos Mortos",
+            "tipo": "ativa",
+            "descricao": "Permite convocar e comandar uma grande quantidade de mortos-vivos, formando uma força diretamente subordinada à autoridade do Imperador Pálido."
+        }
+    ],
+    "caracteristicas": [
+        "Natureza de anjo",
+        "Autoridade extremamente elevada sobre a morte",
+        "Grande resistência espiritual",
+        "Existência parcialmente integrada ao Submundo",
+        "Controle sobre grandes quantidades de mortos-vivos",
+        "Resistência excepcional a ataques espirituais",
+        "Capacidade de sobreviver a ferimentos extremamente graves"
+    ],
+    "atuacao": {
+        "descricao": "Compreender profundamente a autoridade sobre a morte e assumir o papel de governante dos mortos. O Beyonder deve aprender a lidar com almas, cadáveres e espíritos sem permitir que a própria autoridade sobre a morte consuma sua humanidade.",
+        "objetivos": []
+    },
+    "formula": {
+        "ingredientes": []
+    },
+    "requisitos": {
+        "sequencia_anterior": 3
+    },
+    "autoridades": [
+        "Morte",
+        "Submundo",
+        "Almas"
+    ],
+    "dominios": [
+        "Mortos",
+        "Espíritos",
+        "Submundo"
+    ]
+},
+            "1": {
+    "nome": "Imperador Pálido",
+    "descricao": "Um anjo do Caminho da Morte que alcançou um nível extremamente elevado de autoridade sobre a morte, o Submundo e as almas. O Imperador Pálido pode manifestar uma poderosa influência sobre os mortos e utilizar sua autoridade para alterar diretamente o estado de vida e morte.",
+    "habilidades": [
+        {
+            "nome": "Autoridade Suprema da Morte",
+            "tipo": "autoridade",
+            "descricao": "Permite exercer uma autoridade extremamente poderosa sobre a morte, afetando diretamente a vitalidade, as almas e os fenômenos relacionados ao fim da vida."
+        },
+        {
+            "nome": "Domínio do Submundo",
+            "tipo": "autoridade",
+            "descricao": "Permite exercer uma influência profunda sobre o Submundo e suas criaturas, podendo transformar regiões inteiras em extensões de sua autoridade."
+        },
+        {
+            "nome": "Julgamento da Morte",
+            "tipo": "ativa",
+            "descricao": "Permite impor a autoridade da morte sobre um alvo, enfraquecendo sua vitalidade e podendo conduzi-lo à morte quando as condições forem satisfeitas."
+        },
+        {
+            "nome": "Condução das Almas",
+            "tipo": "ativa",
+            "descricao": "Permite manipular e conduzir almas, impedindo que escapem ou interferindo em sua passagem entre a vida e a morte."
+        },
+        {
+            "nome": "Ressurreição",
+            "tipo": "ativa",
+            "descricao": "Permite restaurar um ser à vida utilizando a autoridade sobre a morte, desde que as condições necessárias sejam satisfeitas."
+        },
+        {
+            "nome": "Exército do Submundo",
+            "tipo": "ativa",
+            "descricao": "Permite convocar e comandar grandes quantidades de mortos-vivos e criaturas relacionadas ao Submundo."
+        },
+        {
+            "nome": "Manifestação do Submundo",
+            "tipo": "ativa",
+            "descricao": "Permite manifestar aspectos do Submundo no mundo real, criando uma área profundamente influenciada pela autoridade da morte."
+        }
+    ],
+    "caracteristicas": [
+        "Natureza de anjo de alta sequência",
+        "Autoridade extremamente elevada sobre a morte",
+        "Autoridade sobre o Submundo",
+        "Grande controle sobre almas",
+        "Existência espiritual extremamente poderosa",
+        "Resistência excepcional contra ataques físicos e espirituais",
+        "Grande capacidade de manipulação de mortos-vivos"
+    ],
+    "atuacao": {
+        "descricao": "Assumir plenamente o papel de um representante da morte, compreendendo a relação entre vida, morte, alma e Submundo. O Beyonder deve exercer sua autoridade sem perder a própria identidade diante da natureza da morte.",
+        "objetivos": []
+    },
+    "formula": {
+        "ingredientes": []
+    },
+    "requisitos": {
+        "sequencia_anterior": 2
+    },
+    "autoridades": [
+        "Morte",
+        "Submundo",
+        "Almas"
+    ],
+    "dominios": [
+        "Mortos",
+        "Espíritos",
+        "Almas",
+        "Submundo"
+    ]
+},
+            "0": {
+    "nome": "Morte",
+    "descricao": "A personificação da autoridade absoluta sobre a morte. A Morte é o ponto final de toda vida, governando mortos, almas e o destino final da existência. Sua autoridade transcende a simples destruição física e alcança conceitos como memória, conexões, vestígios de existência e a própria capacidade de retornar da morte.",
+    "habilidades": [
+        {
+            "nome": "Morte Conceitual",
+            "tipo": "autoridade",
+            "descricao": "A autoridade da Morte transcende a morte física. Sob sua influência, vida, memórias, conexões e até vestígios da existência podem morrer. Essa autoridade pode interferir até mesmo em Características de Beyonder, fazendo com que elas entrem temporariamente em um estado de morte."
+        },
+        {
+            "nome": "Palidez Absoluta",
+            "tipo": "autoridade",
+            "descricao": "Manifesta a forma suprema da Palidez, fazendo com que todas as coisas definhem e percam gradualmente sua vitalidade, força, vontade e poderes sobrenaturais."
+        },
+        {
+            "nome": "Ponto Final",
+            "tipo": "autoridade",
+            "descricao": "A Morte representa o destino final de toda vida. Sua autoridade permite conduzir seres e fenômenos ao seu ponto terminal, estabelecendo a morte como destino inevitável dentro de sua esfera de influência."
+        },
+        {
+            "nome": "Senhor dos Mortos",
+            "tipo": "autoridade",
+            "descricao": "A Morte é a fonte primordial da autoridade sobre os mortos-vivos e exerce domínio absoluto sobre criaturas pertencentes ao domínio dos mortos."
+        },
+        {
+            "nome": "Escravização das Almas",
+            "tipo": "autoridade",
+            "descricao": "Permite subjugar seres que possuem alma e transformá-los em servos. Em níveis inferiores, essa autoridade manifesta uma supressão esmagadora baseada na diferença de hierarquia."
+        },
+        {
+            "nome": "Domínio da Morte",
+            "tipo": "ativa",
+            "descricao": "Permite manifestar um domínio no qual a autoridade da Morte se torna diretamente presente. Seres vivos dentro desse domínio são submetidos à influência da morte, enquanto mortos-vivos e espíritos podem receber fortalecimento."
+        },
+        {
+            "nome": "Reino dos Mortos",
+            "tipo": "ativa",
+            "descricao": "Permite estabelecer um verdadeiro destino final para as almas dos mortos. Esse domínio funciona como uma manifestação da autoridade sobre o Submundo e serve como ponto de chegada para aqueles que morrem dentro de sua esfera."
+        },
+        {
+            "nome": "Julgamento Final",
+            "tipo": "ativa",
+            "descricao": "Permite impor sobre um alvo a autoridade terminal da Morte, ignorando métodos convencionais de resistência à morte quando a diferença de autoridade é suficiente."
+        },
+        {
+            "nome": "Ressurreição e Retorno",
+            "tipo": "ativa",
+            "descricao": "A Morte possui domínio sobre a fronteira entre vida e morte, podendo interferir em processos de ressurreição e determinar se uma existência pode ou não retornar após morrer."
+        },
+        {
+            "nome": "Exército dos Mortos",
+            "tipo": "ativa",
+            "descricao": "Permite comandar e manifestar grandes quantidades de mortos-vivos, espíritos e outras entidades pertencentes ao domínio dos mortos."
+        },
+        {
+            "nome": "Travessia do Mundo Espiritual",
+            "tipo": "passiva",
+            "descricao": "A conexão absoluta com a morte e o Submundo permite atravessar e utilizar regiões do Mundo Espiritual relacionadas aos mortos."
+        }
+    ],
+    "caracteristicas": [
+        "Natureza de Deus Verdadeiro",
+        "Autoridade absoluta sobre a morte",
+        "Autoridade sobre a Palidez",
+        "Autoridade sobre o Ponto Final",
+        "Autoridade sobre os mortos-vivos",
+        "Autoridade sobre almas",
+        "Domínio sobre o Submundo",
+        "Resistência extrema contra destruição física e espiritual",
+        "Capacidade de interferir em ressurreições",
+        "Supressão absoluta sobre entidades de níveis inferiores dentro do domínio da Morte"
+    ],
+    "atuacao": {
+        "descricao": "Tornar-se a própria personificação da Morte, estabelecendo um verdadeiro destino final para os mortos e fazendo com que todas as mortes dentro de seu domínio conduzam a esse destino. O Beyonder deve compreender a morte não apenas como destruição, mas como o ponto final inevitável da existência.",
+        "objetivos": [
+            "Estabelecer um verdadeiro destino final para os mortos",
+            "Fazer com que as mortes dentro do domínio conduzam a esse destino",
+            "Compreender a relação entre vida, morte e existência",
+            "Exercer autoridade sobre os mortos sem perder o controle sobre a própria existência"
+        ]
+    },
+    "formula": {
+        "ingredientes": [
+            {
+                "nome": "Unicidade do Caminho da Morte",
+                "tipo": "principal",
+                "quantidade": 1
+            },
+            {
+                "nome": "Característica de Beyonder da Sequência 1",
+                "tipo": "principal",
+                "quantidade": 3
+            },
+            {
+                "nome": "Área contaminada e influenciada por um tributário do Rio da Eternidade Negra",
+                "tipo": "suplementar",
+                "quantidade": 1
+            }
+        ]
+    },
+    "requisitos": {
+        "sequencia_anterior": 1
+    },
+    "autoridades": [
+        "Morte",
+        "Palidez",
+        "Ponto Final",
+        "Mortos-Vivos",
+        "Escravização"
+    ],
+    "dominios": [
+        "Vida e Morte",
+        "Almas",
+        "Mortos",
+        "Mortos-Vivos",
+        "Submundo",
+        "Mundo Espiritual",
+        "Destino Final",
+        "Ressurreição"
+    ]
+}
+        }
+    },
+
+    "gigante_do_crepusculo": {
+        "nome": "Caminho do Gigante do Crepúsculo",
+        "descricao": "Caminho do Gigante do Crepúsculo.",
+        "sequencias": {
+            "9": {"nome": "Guerreiro"},
+            "8": {"nome": "Pugilista"},
+            "7": {"nome": "Mestre de Armas"},
+            "6": {"nome": "Paladino da Aurora"},
+            "5": {"nome": "Guardião"},
+            "4": {"nome": "Caçador de Demônios"},
+            "3": {"nome": "Cavaleiro de Prata"},
+            "2": {"nome": "Glória"},
+            "1": {"nome": "Mão de Deus"},
+            "0": {"nome": "Gigante do Crepúsculo"}
+        }
+    }
+}
